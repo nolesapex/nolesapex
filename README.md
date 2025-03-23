@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @nolesapex
-- 👀 I’m interested in Computers / Development
-- 🌱 I’m currently learning C#, Java, Kotlin
-- 💞️ I’m looking to collaborate on Xposed/Lsposed Framwork
+👋 **Hi there, I'm @nolesapex!**
+
+![Animated Image](https://i.imgur.com/h6j62oj.gif)
+
+💻 **Passionate about Computers & Software Development.**
+
+🌱 **Currently exploring:** `C#`, `Java`, `Kotlin`
+
+🚀 **Looking to collaborate on:** Xposed & LSPosed Framework projects
+
+✨ **Always excited to learn, innovate, and contribute to open-source!**
+
   
 
 <!---
