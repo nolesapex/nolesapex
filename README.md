@@ -1,6 +1,6 @@
 👋 **Hi there, I'm @nolesapex!**
 
-![Animated Image](https://i.imgur.com/h6j62oj.gif)
+![Animated Image](https://i.imgur.com/X3kWqqg.gif)
 
 💻 **Passionate about Computers & Software Development.**
 
